@@ -1,0 +1,47 @@
+2019-01-02 06:45:34,282-ERROR-error!!!!
+Traceback (most recent call last):
+  File "E:/python/interface_test/common/logger2.py", line 101, in <module>
+    raise AssertionError
+AssertionError
+2019-01-02 06:48:07,138-ERROR-error!!!!
+Traceback (most recent call last):
+  File "E:/python/interface_test/common/logger2.py", line 101, in <module>
+    raise AssertionError
+AssertionError
+2019-01-02 06:48:13,825-ERROR-error!!!!
+Traceback (most recent call last):
+  File "E:/python/interface_test/common/logger2.py", line 101, in <module>
+    raise AssertionError
+AssertionError
+2019-01-02 06:48:51,937-ERROR-error!!!!
+NoneType: None
+2019-01-02 06:49:04,496-ERROR-error!!!!
+Traceback (most recent call last):
+  File "E:/python/interface_test/common/logger2.py", line 101, in <module>
+    raise AssertionError
+AssertionError
+2019-01-02 07:01:56,321-ERROR-error!!!!
+Traceback (most recent call last):
+  File "E:/python/interface_test/common/logger2.py", line 101, in <module>
+    raise AssertionError
+AssertionError
+2019-01-02 07:03:31,488-ERROR-error!!!!
+Traceback (most recent call last):
+  File "E:/python/interface_test/common/logger2.py", line 101, in <module>
+    raise AssertionError
+AssertionError
+2019-01-02 07:03:45,108-ERROR-error!!!!
+Traceback (most recent call last):
+  File "E:/python/interface_test/common/logger2.py", line 101, in <module>
+    raise AssertionError
+AssertionError
+2019-01-02 07:06:41,140-ERROR-error!!!!
+Traceback (most recent call last):
+  File "E:/python/interface_test/common/logger2.py", line 101, in <module>
+    raise AssertionError
+AssertionError
+2019-01-02 07:57:45,168-ERROR-error!!!!
+Traceback (most recent call last):
+  File "E:/python/interface_test/common/logger2.py", line 101, in <module>
+    raise AssertionError
+AssertionError
